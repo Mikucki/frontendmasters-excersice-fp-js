@@ -36,3 +36,8 @@ let doMathSoIDontHaveTo = function(n, func) {
 doMathSoIDontHaveTo(5, square);
 
 doMathSoIDontHaveTo(4, increment);
+
+
+
+
+//redu                      ce 
